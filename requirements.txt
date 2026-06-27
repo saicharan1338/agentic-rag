@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+langgraph
+langchain-google-genai
+langchain-text-splitters
+google-generativeai
+google-genai
+faiss-cpu
+pypdf
+python-dotenv
+ipykernel
+jupyter
